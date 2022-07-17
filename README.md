@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Gabriela Pires👋
+I've been working with QA since 2017, I've started in this area with a internship and have been here since.
+I have knowledge in the all test process like planning, execution, documeting, results analysis and regression.
 
+At moment I'm working with mobile test but for the most part of my career I worked with web test
+Also have experince in both manual test and automation test
+
+Used to work in agile teams! I don't now how to work without a kanban (just kidding :sweat_smile:) 
+
+Have a technical degree in IT and I'm currently studing Data Science at Univesp
+A curious person always trying to learn something new :mag_right:
 <!--
 **gabs9pires/gabs9pires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
