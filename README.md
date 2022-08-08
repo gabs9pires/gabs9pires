@@ -1,9 +1,7 @@
 ### Hi there, I'm Gabriela Pires👋
-I've been working with QA since 2017, I've started in this area with a internship and have been here since.
-I have knowledge in the all test process like planning, execution, documeting, results analysis and regression.
+I've been working with QA since 2017, I've started in this area with a internship and have been here since. I have knowledge in the all test process like planning, execution, documeting, results analysis and regression.
 
-At moment I'm working with mobile test but for the most part of my career I worked with web test
-Also have experince in both manual test and automation test
+At moment I'm working with mobile test but for the most part of my career I worked with web test. Also have experince in both manual test and automation test
 
 Used to work in agile teams! I don't now how to work without a kanban (just kidding :sweat_smile:) 
 
